@@ -113,21 +113,21 @@ const DpsBetterLifePage = () => {
                     whileInView={{ opacity: 1, y: 0 }}
                     className="bg-white p-4 rounded-xl shadow-lg"
                   >
-                    <img src="/public/south-africa.png" alt="MICT SETA" className="w-full h-auto" />
+                    <img src="/south-africa.png" alt="South African Flag" className="w-full h-auto" />
                   </motion.div>
                   <motion.div
                     initial={{ opacity: 0, y: 20 }}
                     whileInView={{ opacity: 1, y: 0 }}
                     className="bg-white p-4 rounded-xl shadow-lg"
                   >
-                    <img src="/public/lesotho.png" alt="Mmatau Inc" className="w-full h-auto" />
+                    <img src="/lesotho.png" alt="Lesotho Flag" className="w-full h-auto" />
                   </motion.div>
                   <motion.div
                     initial={{ opacity: 0, y: 20 }}
                     whileInView={{ opacity: 1, y: 0 }}
                     className="bg-white p-4 rounded-xl shadow-lg"
                   >
-                    <img src="/public/zimbabwe.png" alt="Victorious Ministries" className="w-full h-auto" />
+                    <img src="/zimbabwe.png" alt="Zimbabwe Flag" className="w-full h-auto" />
                   </motion.div>
                 </div>
               </div>
