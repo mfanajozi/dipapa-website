@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <img
-              src="/public/dipapa-logo-wh.png"
+              src="/dipapa-logo-wh.png"
               alt="DIPAPA Holdings"
               className="h-12 w-auto mb-4"
             />
