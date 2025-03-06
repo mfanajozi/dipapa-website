@@ -77,21 +77,21 @@ const DipsRoboticsPage = () => {
               whileInView={{ opacity: 1, y: 0 }}
               className="bg-white p-4 rounded-xl shadow-lg"
             >
-              <img src="/public/partners/mict-seta.png" alt="MICT SETA" className="w-full h-auto" />
+              <img src="/partners/mict-seta.png" alt="MICT SETA" className="w-full h-auto" />
             </motion.div>
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
               className="bg-white p-4 rounded-xl shadow-lg"
             >
-              <img src="/public/partners/mmatau-inc.png" alt="Mmatau Inc" className="w-full h-auto" />
+              <img src="/partners/mmatau-inc.png" alt="Mmatau Inc" className="w-full h-auto" />
             </motion.div>
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
               className="bg-white p-4 rounded-xl shadow-lg"
             >
-              <img src="/public/partners/victorious-ministries.png" alt="Victorious Ministries" className="w-full h-auto" />
+              <img src="/partners/victorious-ministries.png" alt="Victorious Ministries" className="w-full h-auto" />
             </motion.div>
           </div>
         </div>
