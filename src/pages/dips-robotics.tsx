@@ -16,7 +16,7 @@ const DipsRoboticsPage = () => {
       <section 
         className="bg-primary text-white relative flex items-center justify-start"
         style={{
-          backgroundImage: `url('/public/dips-robotics-hero.png')`,
+          backgroundImage: `url('/dips-robotics-hero.png')`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           minHeight: '60vh',
@@ -107,49 +107,49 @@ const DipsRoboticsPage = () => {
               whileInView={{ opacity: 1, y: 0 }}
               className="bg-white p-4 rounded-xl shadow-lg"
             >
-              <img src="/public/gallery/zmgoro.png" alt="zmgoro" className="w-full h-auto" />
+              <img src="/gallery/zmgoro.png" alt="zmgoro" className="w-full h-auto" />
             </motion.div>
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
               className="bg-white p-4 rounded-xl shadow-lg"
             >
-              <img src="/public/gallery/wisechild2.png" alt="wisechild2" className="w-full h-auto" />
+              <img src="/gallery/wisechild2.png" alt="wisechild2" className="w-full h-auto" />
             </motion.div>
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
               className="bg-white p-4 rounded-xl shadow-lg"
             >
-              <img src="/public/gallery/wisechild2_a.png" alt="wisechild2_a" className="w-full h-auto" />
+              <img src="/gallery/wisechild2_a.png" alt="wisechild2_a" className="w-full h-auto" />
             </motion.div>
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
               className="bg-white p-4 rounded-xl shadow-lg"
             >
-              <img src="/public/gallery/lego_1.png" alt="lego_1" className="w-full h-auto" />
+              <img src="/gallery/lego_1.png" alt="lego_1" className="w-full h-auto" />
             </motion.div>
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
               className="bg-white p-4 rounded-xl shadow-lg"
             >
-              <img src="/public/gallery/lego_2.png" alt="lego_2" className="w-full h-auto" />
+              <img src="/gallery/lego_2.png" alt="lego_2" className="w-full h-auto" />
             </motion.div>
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
               className="bg-white p-4 rounded-xl shadow-lg"
             >
-              <img src="/public/gallery/robotics_1.png" alt="robotics_1" className="w-full h-auto" />
+              <img src="/gallery/robotics_1.png" alt="robotics_1" className="w-full h-auto" />
             </motion.div>
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
               className="bg-white p-4 rounded-xl shadow-lg"
             >
-              <img src="/public/gallery/robotics_2.png" alt="robotics_2" className="w-full h-auto" />
+              <img src="/gallery/robotics_2.png" alt="robotics_2" className="w-full h-auto" />
             </motion.div>
           </div>
         </div>
